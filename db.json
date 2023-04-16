@@ -1,0 +1,361 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": " Vươn Lên Hoặc Bị Đánh Bại",
+      "title": "Sách kỹ năng sống",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/40/b5/d1/72f5910bed938cc5353525b6b1507692.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/a2/12/58/ff3b5d6ed66b412eda224e6966f8bd44.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/11/6b/e8/3fa3d9c084bac4e39a097f85d6f1419e.jpg.webp"
+      ],
+      "categorySlug": "Kỹ năng sống",
+      "detail": [
+        "Công ty Phát hành : Minh Long",
+        "Nhà Xuất bản : 2019-01-01",
+        "Kích thước : 14.5 x 20.5 cm",
+        "Loại bìa : Bìa mềm",
+        "Số trang : 352",
+        "Nhà xuất bản : Nhà Xuất Bản Thanh Niên"
+      ],
+      "oldPrice": 112000,
+      "newPrice": 99000,
+      "review": 5,
+      "condition": "-10%"
+    },
+    {
+      "id": 2,
+      "name": "Thay Đổi Một Suy Nghĩ Thay Đổi cả Cuộc Đời",
+      "title": "Sách kỹ năng sống",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/bc/e4/62/c90d693131214d091e22652d8722c779.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/f4/8e/ad/d8f74ede86d77a8088dd2821a8295ad7.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/35/03/28/b7c65983d78b3b9c1c54f5bd9c9c2a66.jpg.webp"
+      ],
+      "categorySlug": "Kỹ năng sống",
+      "detail": [
+        "Công ty Phát hành : Minh Long",
+        "Kích thước : 14.5 x 20.5 cm",
+        "Loại bìa : Bìa mềm",
+        "Số trang : 400",
+        "Nhà xuất bản : Nhà Xuất Bản Thanh Niên"
+      ],
+      "oldPrice": 600000,
+      "newPrice": 499000,
+      "review": 4,
+      "condition": "-10%"
+    },
+    {
+      "id": 3,
+      "name": "3 Sách luyện đề minh hoạ ôn thi thpt môn toán hoá sinh moonbook",
+      "title": "Sách Tham Khảo ",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/4b/32/d2/0842f93a09a9b9635fce73617bc815e8.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/62/dd/58/dd4f99c6737583612309d785c0ba14f2.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/10/0c/09/76b63867c5748c3066371b9da869b176.jpg.webp"
+      ],
+      "categorySlug": "Kỹ năng sống",
+      "detail": [
+        "Công ty Phát hành : Aladanh",
+        "Nhà xuất bản : Nhà Xuất Bản Thanh Niên"
+      ],
+      "oldPrice": 120000,
+      "newPrice": 100000,
+      "review": 5,
+      "condition": "-10%"
+    },
+    {
+      "id": 4,
+      "name": "Straightforward 2nd Edition Advanced",
+      "title": "Straightforward 2nd Edition Advanced + EBook Student's Pack",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/da/f5/9a/a815c3798179d00efbc41750a9ea494a.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/3b/c4/37/aefc9c32e303b23434f2ce2b4f128608.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/ae/41/7f/8b8b3217a9dc5f149c220a351d9cab06.jpg.webp"
+      ],
+      "categorySlug": "Ebook",
+      "detail": [
+        "Công ty phát hành : Macmillan Publishers",
+        "Nhà xuất bản : Macmillan Education",
+        "ISBN-13 : 9781786327697"
+      ],
+      "oldPrice": 359000,
+      "newPrice": 341000,
+      "review": 3,
+      "condition": "-3%"
+    },
+    {
+      "id": 6,
+      "name": "Clean Code ",
+      "title": "Clean Code && Mã Sạch Và Con Đường Trở Thành Lập Trình Viên Giỏi",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/eb/76/de/a0e87ef33a285d22f4659374a1f1f177.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/84/98/36/8a67dea08553f89e636aa25967385087.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/7c/94/10/af222f6e76e7116a2f32b7649dcc8312.png.webp"
+      ],
+      "categorySlug": "Ebook",
+      "detail": [
+        "Công ty phát hành:Tri Thức Trẻ Books",
+        "Ngày xuất bản: 2022-04-09 00:00:00",
+        "Kích thước : 14.5 x 20.5 cm",
+        "Loại bìa : Bìa mềm",
+        "Số trang : 526",
+        "Nhà xuất bản :Nhà Xuất Bản Dân Trí"
+      ],
+      "oldPrice": 120000,
+      "newPrice": 119000,
+      "review": 5,
+      "condition": "-3%"
+    },
+    {
+      "id": 7,
+      "name": "GNghệ Thuật Tinh Tế Của Việc Đếch Quan Tâm",
+      "title": "Nghệ Thuật Tinh Tế Của Việc Đếch Quan Tâm (Tái Bản)",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/33/e6/a4/349a506f15a34548c5aa5101816ff010.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/6a/5d/3d/05c58e651e384becaf4579097ee97814.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/6a/5d/3d/05c58e651e384becaf4579097ee97814.jpg.webp"
+      ],
+      "categorySlug": "Kỹ năng sống",
+      "detail": [
+        "Công ty phát hành:Huy Hoàng Bookstore",
+        "Ngày xuất bản:2021-11-01 00:00:00",
+        "Kích thước:13.5 x 20.5 cm",
+        "Dịch Giả:Thanh Hương",
+        "Loại bìa : Bìa mềm",
+        "Số trang :284",
+        "Nhà xuất bản :Nhà Xuất Bản Văn Học"
+      ],
+      "oldPrice": 128000,
+      "newPrice": 88000,
+      "review": 5,
+      "condition": "-4%"
+    },
+    {
+      "id": 8,
+      "name": "Bứt Phá Điểm Thi Môn Vật Lí - Tập 2 ",
+      "title": "Bứt Phá Điểm Thi Môn Vật Lí - Tập 2 (Chinh phục kì thi THPTQG và Đại học, Cao đẳng) (Bộ Quà Tặng Ebook, video, đề thi thử)",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/5e/06/65/c06037074e4c6fef7420c2c7e09709b1.png.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/5e/06/65/c06037074e4c6fef7420c2c7e09709b1.png.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/a7/99/0a/bcb9cf48ac760b620391aba5390327dd.png.webp"
+      ],
+      "categorySlug": "Sách Luyện Thi THPT Quốc Gia",
+      "detail": [
+        "Công ty phát hành :MCBOOKS",
+        "Kích thước : 14.5 x 20.5 cm",
+        "Loại bìa : Bìa mềm",
+        "Số trang : 418"
+      ],
+      "oldPrice": 500000,
+      "newPrice": 250000,
+      "review": 4,
+      "condition": "-4%"
+    },
+    {
+      "id": 9,
+      "name": "100 Kỹ Năng Sinh Tồn",
+      "title": "100 Kỹ Năng Sinh Tồn",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/67/77/6e/915e36b7629c4792218f19b57a8868e4.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/e4/ca/af/a9523a72d66fa9507d2bfc5023e33eac.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/review/9a/70/11/1afa85be4730bb242cbce09570637d56.jpg.webp"
+      ],
+      "categorySlug": "Kiến thức",
+      "detail": [
+        "Công ty phát hành :MCBOOKS",
+        "Kích thước : 14.5 x 20.5 cm",
+        "Loại bìa : Bìa mềm",
+        "Số trang : 418"
+      ],
+      "oldPrice": 999000,
+      "newPrice": 898000,
+      "review": 5,
+      "condition": "-5%"
+    },
+    {
+      "id": 10,
+      "name": "Nhịn Khô",
+      "title": "Nhịn Khô",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/d0/7e/4c/b985d91f5ee7ed90462ef6c2031205d6.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/e1/e6/44/a29df1f2ca22491691540220eb763b8b.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/e1/e6/44/a29df1f2ca22491691540220eb763b8b.jpg.webp"
+      ],
+      "categorySlug": "Kiến thức",
+      "detail": [
+        "Công ty phát hành Thái Hà",
+        "Ngày xuất bản 2022-07-07 00:00:00",
+        "Kích thước 15.5x24cm",
+        "Dịch Giả Trần Bích Hà && Trần Doãn Hưng",
+        "Số trang  296",
+        "Nhà xuất bản Nhà Xuất Bản Thế Giới",
+        "3x Audio jacks"
+      ],
+      "oldPrice": 139000,
+      "newPrice": 109000,
+      "review": 5,
+      "condition": "-6%"
+    },
+    {
+      "id": 11,
+      "name": "1000 Phát Minh Và Khám Phá Vĩ Đại",
+      "title": "Sách - 1000 Phát Minh Và Khám Phá Vĩ Đại",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/60/a6/ae/558986f89b1e5bed36b043cf7572d7e1.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/b3/eb/e2/f576c55480af468a5630cd1becbab139.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/60/a6/ae/558986f89b1e5bed36b043cf7572d7e1.jpg.webp"
+      ],
+      "categorySlug": "Kiến thức",
+      "detail": [
+        "Công ty phát hành Zenbooks",
+        "Loại bìa Bìa cứng",
+        "Số trang 256",
+        "Nhà xuất bản NXB Dân Trí"
+      ],
+      "oldPrice": 499000,
+      "newPrice": 399000,
+      "review": 4,
+      "condition": "-7%"
+    },
+    {
+      "id": 12,
+      "name": "Khám Phá Thế Giới Cho Trẻ Em - Vikings - Người Viking",
+      "title": "Bách Khoa Tri Thức Về Khám Phá Thế Giới Cho Trẻ Em - Vikings - Người Viking",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/69/06/b4/f4287e8ac9c6b28c160aca6e1f998164.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/69/06/b4/f4287e8ac9c6b28c160aca6e1f998164.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/69/06/b4/f4287e8ac9c6b28c160aca6e1f998164.jpg.webp"
+      ],
+      "categorySlug": "Kiến thức",
+      "detail": [
+        "Công ty phát hành Đinh Tị",
+        "Loại bìa : Bìa mềm",
+        "Số trang 256",
+        "Nhà Xuất Bản Hà Nội"
+      ],
+      "oldPrice": 55000,
+      "newPrice": 49000,
+      "review": 5,
+      "condition": "-6%"
+    },
+    {
+      "id": 13,
+      "name": "Combo 2 cuốn Tổng ôn cấp tốc luyện thi Đánh giá năng lực (Theo cấu trúc đề thi của ĐHQGHN)",
+      "title": "Sách Luyện Thi THPT Quốc Gia",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/58/10/51/d83eb218db7dd66693197ac6bfc1e86a.png.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/f3/6d/39/9dbcd44e3be90e123d62dc87e0d1a542.png.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/58/10/51/d83eb218db7dd66693197ac6bfc1e86a.png.webp"
+      ],
+      "categorySlug": "Sách Luyện Thi THPT Quốc Gia",
+      "detail": [
+        "Công ty phát hành: Aladanh",
+        "Ngày xuất bản: 2021-01-27 13:08:55",
+        "Phiên bản: 2021",
+        "Loại bìa: Bìa mềm",
+        "Số trang: 380",
+        "Nhà xuất bản: Bản Đại Học Quốc Gia Hà Nội"
+      ],
+      "oldPrice": 450000,
+      "newPrice": 360000,
+      "review": 5,
+      "condition": "-24%"
+    },
+    {
+      "id": 14,
+      "name": "Sách - Toán",
+      "title": "Sách - Mẹo giải nhanh các dạng bài vận dụng và vận dụng cao môn Toán",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/b5/b6/6b/452358d84cb72c857858c75e9031eabc.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/d3/f1/2d/858149a7946c64cec194338fb595f924.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/b5/b6/6b/452358d84cb72c857858c75e9031eabc.jpg.webp"
+      ],
+      "categorySlug": "Sách Luyện Thi THPT Quốc Gia",
+      "detail": [
+        "Công ty phát hành: Công ty TNHH Dịch vụ giáo dục Việt Nam",
+        "Phiên bản: 2021",
+        "Loại bìa: Bìa cứng",
+        "Số trang: 300",
+        "Nhà xuất bản: Bản Đại Học Quốc Gia Hà Nội"
+      ],
+      "oldPrice": 200000,
+      "newPrice": 190000,
+      "review": 4,
+      "condition": "-5%"
+    },
+    {
+      "id": 15,
+      "name": "Sách - Tiếng Anh",
+      "title": "Ôn Luyện Thi Tốt Nghiệp THPT Năm 2022 Môn Tiếng Anh",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/27/0d/bc/fb312fecbb44b02307c5f2287c5949ac.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/47/9f/7c/0b46b8024d4bf86ff0ec5537f18de3db.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/27/0d/bc/fb312fecbb44b02307c5f2287c5949ac.jpg.webp"
+      ],
+      "categorySlug": "Sách Luyện Thi THPT Quốc Gia",
+      "detail": [
+        "Công ty phát hành: Công ty Cổ phần Giáo dục và Chuyển giao Công nghệ Việt Nam - VETT",
+        "Phiên bản: 2021",
+        "Loại bìa: Bìa Mềm",
+        "Số trang: 188",
+        "Nhà xuất bản: Nhà Xuất Bản Đại Học Quốc Gia Hà Nội"
+      ],
+      "oldPrice": 60000,
+      "newPrice": 65000,
+      "review": 2,
+      "condition": "-5%"
+    },
+    {
+      "id": 16,
+      "name": "Ý Chí Sắt Đá",
+      "title": "Ý Chí Sắt Đá - Cuộc du học của Huyền Trang thích thú vô cùng. Tới đâu ông cũng gặp những di tích của đạo Phật, tha hồ mà đọc kinh điển, mà thảo luận với các pháp sư và thỉnh giáo các vị tu hành uyên bác.",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/0c/45/f7/199a94d411f5fabd5d24fdfdbd9af87e.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/fc/7c/83/67ee529981dfff164719ccf452703fae.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/0c/45/f7/199a94d411f5fabd5d24fdfdbd9af87e.jpg.webp"
+      ],
+      "categorySlug": "Kỹ năng sống",
+      "detail": [
+        "Tác giả: Nguyễn Hiến Lê",
+        "Ngày xuất bản: 2018-09-09 00:00:00",
+        "Loại bìa: Bìa Mềm",
+        "Số trang: 276",
+        "Nhà xuất bản: Nhà Xuất Bản Hồng Đức"
+      ],
+      "oldPrice": 110000,
+      "newPrice": 72000,
+      "review": 2,
+      "condition": "-35%"
+    },
+    {
+      "id": 5,
+      "name": "Chúng Ta Học Thế Nào - How We Learn + Search Inside Yourself ",
+      "title": "Combo 2 cuốn: Chúng Ta Học Thế Nào - How We Learn + Search Inside Yourself - Tạo Ra Lợi Nhuận Vượt Qua Đại Dương Và Thay Đổi Thế Giới ( Thay Đổi Tư Duy/ Phương Pháp Học Tập/ Tặng Kèm Bookmark)",
+      "images": [
+        "https://salt.tikicdn.com/cache/750x750/ts/product/93/71/5b/76d5580b2ab514907983fea1b9376f65.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/93/71/5b/76d5580b2ab514907983fea1b9376f65.jpg.webp",
+        "https://salt.tikicdn.com/cache/750x750/ts/product/93/71/5b/76d5580b2ab514907983fea1b9376f65.jpg.webp"
+      ],
+      "categorySlug": "Ebook",
+      "detail": [
+        "Công ty phát hành :Nhiều công ty phát hành",
+        "Nhà xuất bản :Nhiều Nhà Xuất Bản"
+      ],
+      "oldPrice": 149000,
+      "newPrice": 119200,
+      "review": 3,
+      "condition": "-15%"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "The Anh",
+      "email": "admin@gmail.com",
+      "password": "Theanh28@",
+      "avata": "/images/avata1.jpg",
+      "cart": { "cartItems": [], "cartTotalAmount": 0, "cartTotalQuantity": 0 }
+    }
+  ]
+}
